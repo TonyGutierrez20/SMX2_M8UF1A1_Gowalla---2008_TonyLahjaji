@@ -10,4 +10,4 @@ Gowalla era un servicio de redes sociales basado en la ubicación. Se lanzó en 
 
 **Video de Gowalla**
 
-![video](https://www.youtube.com/watch?v=o9XO9hXEiiY)
+https://www.youtube.com/watch?v=o9XO9hXEiiY
